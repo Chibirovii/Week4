@@ -7,7 +7,7 @@ namespace Week4
         static void Main(string[] args)
         {
             Console.WriteLine("Ana Chibirovi");
-            Console.ForegroundColor = ConsoleColor.Blue;
+            Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine(Console.ReadLine());
         }
     }
